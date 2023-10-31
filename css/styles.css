@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+}
+
+.jM:hover {
+    color: blue;
+}
+
+hr {
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+}
+
+h1 {
+    color: #000000;
+}
+
+h3 {
+    color: #F96666;
+}
